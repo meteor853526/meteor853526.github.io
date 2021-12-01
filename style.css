@@ -1,0 +1,456 @@
+
+    .map img{
+        position: absolute;
+        width:2310px;
+        height: 578px;
+        
+        right: 0px;
+        top: 0px;
+    }
+    
+    html{
+        height: 100%;
+    }
+    .box{
+        position: absolute;
+        right: 0px;
+        top: 0px;
+        width: 2298px;
+        height: 120px;
+    
+        background: rgba(0, 0, 0, 0.25);
+        backdrop-filter: blur(4px);
+    }
+    p1{
+        position: absolute;
+        width: 48px;
+        height: 60px;
+        left: 189px;
+        top: 8px;
+
+        font-family: "YuMincho";
+        font-style: normal;
+        font-weight: 800;
+        font-size: 24px;
+        line-height: 36px;
+
+        color: #FFFFFF;
+    }
+    h1{
+        position: absolute;
+        width: 48px;
+        height: 72px;
+        left: 1400px;
+        top: 25px;
+        /* Untitled/SUB1 */
+
+        font-family: Noto Sans TC;
+        font-style: normal;
+        font-weight: 1000;
+        font-size: 24px;
+        line-height: 36px;
+
+        color: #FFFFFF;
+    }
+    body {
+        position: absolute;
+        background-image: url(bac.png);
+        background-repeat: no-repeat;
+        width:2310px;
+        height: 578px;
+        background-size:2310px 578px;
+        right: 0px;
+        top: 0px;
+    }
+    
+    
+        .item {
+            position: absolute;
+            width: 48px;
+            height: 72px;
+            left: 1400px;
+            top: 30px;
+            /* Untitled/SUB1 */
+
+            font-family: Noto Sans TC;
+            font-style: normal;
+            font-weight: 1000;
+            font-size: 24px;
+            line-height: 36px;
+
+            color: #FFFFFF;
+        }
+        .item1 {
+            position: absolute;
+            width: 48px;
+            height: 72px;
+            left: 1400px;
+            top: 40px;
+            /* Untitled/SUB1 */
+
+            font-family: Noto Sans TC;
+            font-style: normal;
+            font-weight: 100;
+            font-size: 24px;
+            line-height: 36px;
+
+            color: #FFFFFF;
+            
+        }
+        .item2 {
+            position: absolute;
+            width: 48px;
+            height: 72px;
+            left: 1550px;
+            top: 40px;
+            /* Untitled/SUB1 */
+
+            font-family: Noto Sans TC;
+            font-style: normal;
+            font-weight: 100;
+            font-size: 24px;
+            line-height: 36px;
+
+            color: #FFFFFF;
+        }
+        .item3 {
+            position: absolute;
+            width: 48px;
+            height: 72px;
+            left: 1700px;
+            top: 40px;
+            /* Untitled/SUB1 */
+
+            font-family: Noto Sans TC;
+            font-style: normal;
+            font-weight: 100;
+            font-size: 24px;
+            line-height: 36px;
+
+            color: #FFFFFF;
+        }
+        .item4 {
+            position: absolute;
+            width: 48px;
+            height: 72px;
+            left: 1850px;
+            top: 40px;
+            /* Untitled/SUB1 */
+            white-space:nowrap;
+            font-family: Noto Sans TC;
+            font-style: normal;
+            font-weight: 100;
+            font-size: 24px;
+            line-height: 36px;
+
+            color: #FFFFFF;
+        }
+        .item5 {
+            position: absolute;
+            width: 48px;
+            height: 35px;
+            left: 850px;
+            top: 650px;
+
+            /* Untitled/H5 */
+            white-space:nowrap;
+            font-family: Noto Sans TC;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 38px;
+            line-height: 47px;
+            /* identical to box height */
+
+            display: flex;
+            align-items: center;
+
+            color: #000000;
+        }
+        .item6 {
+            position: absolute;
+            width: 48px;
+            height: 35px;
+            left: 1050px;
+            top: 650px;
+
+            /* Untitled/H5 */
+            white-space:nowrap;
+            font-family: Noto Sans TC;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 38px;
+            line-height: 47px;
+            /* identical to box height */
+
+            display: flex;
+            align-items: center;
+
+            color: #000000;
+        }
+        .item7 {
+            position: absolute;
+            width: 48px;
+            height: 35px;
+            left: 1250px;
+            top: 650px;
+
+            /* Untitled/H5 */
+            white-space:nowrap;
+            font-family: Noto Sans TC;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 38px;
+            line-height: 47px;
+            /* identical to box height */
+
+            display: flex;
+            align-items: center;
+
+            color: #000000;
+        }
+        .item8 {
+            position: absolute;
+            width: 48px;
+            height: 35px;
+            left: 1450px;
+            top: 650px;
+
+            /* Untitled/H5 */
+            white-space:nowrap;
+            font-family: Noto Sans TC;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 38px;
+            line-height: 47px;
+            /* identical to box height */
+
+            display: flex;
+            align-items: center;
+
+            color: #000000;
+        }
+        .tit{
+            position: absolute;
+            width: 279px;
+            height: 136px;
+            left: 950px;
+            top: 265px;
+
+            /* Untitled/H1 */
+            white-space:nowrap;
+            font-family: Noto Sans TC;
+            font-style: normal;
+            font-weight: 300;
+            font-size: 140px;
+            line-height: 150px;
+            letter-spacing: -1.5px;
+
+            color: #FFFFFF;
+        }
+        .card1{
+            position: absolute;
+            left: 5.65%;
+            right: 2.65%;
+            top: 155.94%;
+            bottom: 28.64%;
+        }
+        .card2{
+            position: absolute;
+            left: 25.65%;
+            right: 2.65%;
+            top: 155.94%;
+            bottom: 28.64%;
+        }
+        .card3{
+            position: absolute;
+            left: 45.65%;
+            right: 2.65%;
+            top: 155.94%;
+            bottom: 28.64%;
+        }
+        .card4{
+            position: absolute;
+            left: 65.65%;
+            right: 2.65%;
+            top: 155.94%;
+            bottom: 28.64%;
+        }
+        .card5{
+            position: absolute;
+            left: 5.65%;
+            right: 2.65%;
+            top: 285.94%;
+            bottom: 28.64%;
+        }
+        .card6{
+            position: absolute;
+            left: 25.65%;
+            right: 2.65%;
+            top: 285.94%;
+            bottom: 28.64%;
+        }
+        .card7{
+            position: absolute;
+            left: 45.65%;
+            right: 2.65%;
+            top: 285.94%;
+            bottom: 28.64%;
+        }
+        .card8{
+            position: absolute;
+            left: 65.65%;
+            right: 2.65%;
+            top: 285.94%;
+            bottom: 28.64%;
+        }
+        .card9{
+            position: absolute;
+            left: 5.65%;
+            right: 2.65%;
+            top: 415.94%;
+            bottom: 28.64%;
+        }
+        .card10{
+            position: absolute;
+            left: 25.65%;
+            right: 2.65%;
+            top: 415.94%;
+            bottom: 28.64%;
+        }
+        .card11{
+            position: absolute;
+            left: 45.65%;
+            right: 2.65%;
+            top: 415.94%;
+            bottom: 28.64%;
+        }
+        .card12{
+            position: absolute;
+            left: 65.65%;
+            right: 2.65%;
+            top: 415.94%;
+            bottom: 28.64%;
+        }
+        .card1-text{
+            font-family: Noto Sans TC;
+            font-style: normal;
+            font-weight: 600;
+            font-size: 40px;
+            line-height: 29px;
+            display: flex;
+            align-items: center;
+            letter-spacing: 0.15px;
+
+            color: #000000;
+        }
+        
+        .card1-button{
+            
+                display :  inline - block ;  
+                position :  relative ;  
+                margin :  10px ;  
+                padding : 0  30px ;  
+                text-align :  center ;  
+                text-decoration :  none ;  
+                font :  bold   12px / 40px   Arial ,  sans-serif ;  
+                color : white;
+                background-color: #6B7AA1;
+                text-shadow :  1px   1px   1px  rgb(255, 255, 255);  
+             
+                
+	            border-radius: 300px;
+                font-family: Noto Sans TC;
+                font-style: normal;
+                font-weight: 400;
+                font-size: 18px;
+                line-height: 30px;
+        }
+        .itea{
+            position: absolute;
+            width: 101px;
+            height: 29px;
+            left: 140px;
+            top: 800px;
+
+            /* Untitled/H6 */
+            white-space:nowrap;
+            font-family: Noto Sans TC;
+            font-style: normal;
+            font-weight:600;
+            font-size: 35px;
+            line-height: 29px;
+            /* identical to box height */
+
+            display: flex;
+            align-items: center;
+            letter-spacing: 0.15px;
+
+            color: #000000;
+        }
+        .itea-button{
+                position: absolute;
+                width: 52px;
+                height: 29px;
+                left: 320px;
+                top: 790px;
+                display :  inline - block ;    
+                margin :  10px ;  
+                padding : 0  30px ;  
+                text-align :  center ;  
+                text-decoration :  none ;  
+                font :  bold   12px / 40px   Arial ,  sans-serif ;  
+                color : white;
+                background-color:#6B7AA1;
+                text-shadow :  1px   1px   1px  rgba(255,255,255, .22);  
+             
+                
+	            border-radius: 30px;
+                font-family: Noto Sans TC;
+                font-style: normal;
+                font-weight: 400;
+                font-size: 18px;
+                line-height: 30px;
+        }
+        .count{
+            position :  relative ; 
+            left: 45.65%;
+            right: 2.65%;
+            top: 530.94%;
+            bottom: 28.64%;
+            background: #6B7AA1;
+
+            font-family: Noto Sans TC;
+            font-style: normal;
+            font-weight: normal;
+            font-size: 16px;
+            line-height: 28px;
+            /* identical to box height, or 175% */
+
+        }
+        .count2{
+            position :  relative ; 
+            left: 45.65%;
+            right: 2.65%;
+            top: 530.94%;
+            bottom: 28.64%;
+            background: #F2F2F2;
+
+            font-family: Noto Sans TC;
+            font-style: normal;
+            font-weight: normal;
+            font-size: 16px;
+            line-height: 28px;
+            /* identical to box height, or 175% */
+
+        }
+        .foot{
+            position :  relative ; 
+            left: 0px;
+            width:2310px;
+            height: 300px;
+            background-size:2310px 578px;
+            right: 0px;
+            top: 3400px;
+            
+        }
+
